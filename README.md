@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AbrilEsparza
-- 👀 I’m studying mechatronics engeneering 
-- 🌱 I’m currently learning Python and Front-End development
+
 
 
 
